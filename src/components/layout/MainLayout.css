@@ -1,0 +1,17 @@
+.layout-root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.layout-body {
+  display: flex;
+  flex: 1;
+  width: 100%;
+}
+
+.layout-content {
+  flex: 1;
+  padding: var(--spacing-8) 0;
+  overflow-y: auto;
+}

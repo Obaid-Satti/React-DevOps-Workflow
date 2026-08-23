@@ -1,0 +1,28 @@
+.footer-root {
+  margin-top: auto;
+  border-radius: 0;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  padding: var(--spacing-4) 0;
+  font-size: var(--font-size-xs);
+  color: var(--text-muted);
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--spacing-2);
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-2);
+}
+
+.dot {
+  opacity: 0.4;
+}
