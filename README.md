@@ -4,6 +4,11 @@
 This project demonstrates a professional GitHub workflow.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+## Team Workflow
+
+Changes are reviewed through Pull Requests.
+
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
